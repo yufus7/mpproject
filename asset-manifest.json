@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mpproject/static/css/main.d118fd8a.css",
+    "main.js": "/mpproject/static/js/main.c38b1cd7.js",
+    "index.html": "/mpproject/index.html",
+    "main.d118fd8a.css.map": "/mpproject/static/css/main.d118fd8a.css.map",
+    "main.c38b1cd7.js.map": "/mpproject/static/js/main.c38b1cd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d118fd8a.css",
+    "static/js/main.c38b1cd7.js"
+  ]
+}
